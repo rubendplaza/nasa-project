@@ -17,7 +17,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "concurrently": "^7.2.1"
+  "devDependencies": {
+    "concurrently": "^7.3.0"
   }
 }
